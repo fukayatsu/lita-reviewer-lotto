@@ -1,6 +1,8 @@
 # lita-reviewer-lotto
 
-Lita
+A reviewer lottery script for Lita
+
+Inspired by [sakatam/hubot-reviewer-lotto](https://github.com/sakatam/hubot-reviewer-lotto)
 
 ## Installation
 
